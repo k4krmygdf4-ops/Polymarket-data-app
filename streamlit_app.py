@@ -233,5 +233,5 @@ with tab3:
     st.write("✅ Phase 1: Live markets, search, mobile dashboard")
 
     st.write("Next: wallet tracking, whale alerts, smart-money scoring, and consensus signals.")
-
-st.caption("Research only. Predict
+    
+    st.caption("Research only. Prediction markets are risky. This app does not place trades.")
